@@ -13,10 +13,10 @@ A beautiful, interactive recursive fractal tree animation built using **HTML5 Ca
 ## 🛠️ Installation & Usage
 1.  **Clone the repository:**
     ```bash
-    git clone [https://github.com/rayansiddiquii/fractal-tree-animation.git](https://github.com/rayansiddiquii/fractal-tree-animation.git)
+git clone https://github.com/rayansiddiquii/fractal-tree-animation.git
     ```
 2.  **Add your music:**
-    Relace an MP3 file named `audio.mp3/mpeg` in the root directory.
+    Replace an MP3 file named `audio.mp3/mpeg` in the root directory.
 3.  **Run the project:**
     Simply open `index.html` in your favorite web browser.
 
